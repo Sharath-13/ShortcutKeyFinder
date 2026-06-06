@@ -1,0 +1,1096 @@
+{
+  "copy": {
+    "keywords": ["copy", "duplicate"],
+    "windows": "Ctrl + C",
+    "mac": "Cmd + C"
+  },
+  "paste": {
+    "keywords": ["paste", "insert"],
+    "windows": "Ctrl + V",
+    "mac": "Cmd + V"
+  },
+  "cut": {
+    "keywords": ["cut", "remove"],
+    "windows": "Ctrl + X",
+    "mac": "Cmd + X"
+  },
+  "undo": {
+    "keywords": ["undo", "reverse"],
+    "windows": "Ctrl + Z",
+    "mac": "Cmd + Z"
+  },
+  "redo": {
+    "keywords": ["redo", "repeat"],
+    "windows": "Ctrl + Y",
+    "mac": "Cmd + Shift + Z"
+  },
+  "bold": {
+    "keywords": ["bold", "strong"],
+    "windows": "Ctrl + B",
+    "mac": "Cmd + B"
+  },
+  "italic": {
+    "keywords": ["italic", "slant"],
+    "windows": "Ctrl + I",
+    "mac": "Cmd + I"
+  },
+  "underline": {
+    "keywords": ["underline", "line"],
+    "windows": "Ctrl + U",
+    "mac": "Cmd + U"
+  },
+  "insert hyperlink": {
+    "keywords": ["hyperlink", "link"],
+    "windows": "Ctrl + K",
+    "mac": "Cmd + K"
+  },
+ 
+
+  
+  
+  "new tab": {
+    "keywords": ["open tab", "new tab"],
+    "windows": "Ctrl + T",
+    "mac": "Cmd + T"
+  },
+  "close tab": {
+    "keywords": ["close tab", "exit tab"],
+    "windows": "Ctrl + W",
+    "mac": "Cmd + W"
+  },
+  "reopen closed tab": {
+    "keywords": ["restore tab", "reopen tab"],
+    "windows": "Ctrl + Shift + T",
+    "mac": "Cmd + Shift + T"
+  },
+  "switch tab": {
+    "keywords": ["next tab", "previous tab"],
+    "windows": "Ctrl + Tab / Ctrl + Shift + Tab",
+    "mac": "Cmd + Option + → / Cmd + Option + ←"
+  },
+  "developer tools": {
+    "keywords": ["dev tools", "inspect"],
+    "windows": "Ctrl + Shift + I",
+    "mac": "Cmd + Option + I"
+  },
+  "toggle terminal": {
+    "keywords": ["terminal", "console"],
+    "windows": "Ctrl + `",
+    "mac": "Cmd + `"
+  },
+  "open command palette": {
+    "keywords": ["command palette", "search commands"],
+    "windows": "Ctrl + Shift + P",
+    "mac": "Cmd + Shift + P"
+  },
+  "format document": {
+    "keywords": ["format", "beautify"],
+    "windows": "Shift + Alt + F",
+    "mac": "Shift + Option + F"
+  },
+  "duplicate layer": {
+    "keywords": ["duplicate layer", "copy layer"],
+    "windows": "Ctrl + J",
+    "mac": "Cmd + J"
+  },
+  "merge layers": {
+    "keywords": ["merge layers", "combine"],
+    "windows": "Ctrl + E",
+    "mac": "Cmd + E"
+  },
+  "new layer": {
+    "keywords": ["new layer", "add layer"],
+    "windows": "Shift + Ctrl + N",
+    "mac": "Shift + Cmd + N"
+  },
+  "zoom in": {
+    "keywords": ["zoom in", "magnify"],
+    "windows": "Ctrl + +",
+    "mac": "Cmd + +"
+  },
+  "zoom out": {
+    "keywords": ["zoom out", "reduce"],
+    "windows": "Ctrl + -",
+    "mac": "Cmd + -"
+  },
+
+  "new workbook": {
+    "keywords": ["new workbook", "create workbook"],
+    "windows": "Ctrl + N",
+    "mac": "Cmd + N"
+  },
+  "open workbook": {
+    "keywords": ["open workbook", "load workbook"],
+    "windows": "Ctrl + O",
+    "mac": "Cmd + O"
+  },
+  "save workbook": {
+    "keywords": ["save workbook", "store workbook"],
+    "windows": "Ctrl + S",
+    "mac": "Cmd + S"
+  },
+  "save as": {
+    "keywords": ["save as", "rename file"],
+    "windows": "F12",
+    "mac": "Cmd + Shift + S"
+  },
+  "close workbook": {
+    "keywords": ["close workbook", "exit workbook"],
+    "windows": "Ctrl + W",
+    "mac": "Cmd + W"
+  },
+  "insert row": {
+    "keywords": ["insert row", "add row"],
+    "windows": "Ctrl + Shift + +",
+    "mac": "Cmd + Shift + +"
+  },
+  "delete row": {
+    "keywords": ["delete row", "remove row"],
+    "windows": "Ctrl + -",
+    "mac": "Cmd + -"
+  },
+  "insert column": {
+    "keywords": ["insert column", "add column"],
+    "windows": "Ctrl + Shift + +",
+    "mac": "Cmd + Shift + +"
+  },
+  "delete column": {
+    "keywords": ["delete column", "remove column"],
+    "windows": "Ctrl + -",
+    "mac": "Cmd + -"
+  },
+  "autofill": {
+    "keywords": ["autofill", "fill series"],
+    "windows": "Ctrl + D",
+    "mac": "Cmd + D"
+  },
+  "fill down": {
+    "keywords": ["fill down", "copy down"],
+    "windows": "Ctrl + D",
+    "mac": "Cmd + D"
+  },
+  "fill right": {
+    "keywords": ["fill right", "copy right"],
+    "windows": "Ctrl + R",
+    "mac": "Cmd + R"
+  },
+  "insert chart": {
+    "keywords": ["chart", "graph"],
+    "windows": "Alt + F1",
+    "mac": "Fn + Option + F1"
+  },
+  "new worksheet": {
+    "keywords": ["new sheet", "insert sheet"],
+    "windows": "Shift + F11",
+    "mac": "Shift + Fn + F11"
+  },
+  "switch worksheet": {
+    "keywords": ["next sheet", "previous sheet"],
+    "windows": "Ctrl + PgDn / Ctrl + PgUp",
+    "mac": "Option + Cmd + → / Option + Cmd + ←"
+  },
+  "freeze panes": {
+    "keywords": ["freeze panes", "lock rows"],
+    "windows": "Alt + W + F + F",
+    "mac": "Cmd + Option + F"
+  },
+  "pivot table": {
+    "keywords": ["pivot table", "summarize data"],
+    "windows": "Alt + N + V",
+    "mac": "Cmd + Option + P"
+  },
+  "insert function": {
+    "keywords": ["insert function", "fx"],
+    "windows": "Shift + F3",
+    "mac": "Shift + Fn + F3"
+  },
+  "calculate now": {
+    "keywords": ["calculate now", "recalculate"],
+    "windows": "F9",
+    "mac": "Fn + F9"
+  },
+  "toggle absolute reference": {
+    "keywords": ["absolute reference", "relative reference"],
+    "windows": "F4",
+    "mac": "Cmd + T"
+  },
+  "new slide": {
+    "keywords": ["new slide", "insert slide"],
+    "windows": "Ctrl + M",
+    "mac": "Cmd + Shift + N"
+  },
+  "duplicate slide": {
+    "keywords": ["duplicate slide", "copy slide"],
+    "windows": "Ctrl + D",
+    "mac": "Cmd + D"
+  },
+  "delete slide": {
+    "keywords": ["delete slide", "remove slide"],
+    "windows": "Delete",
+    "mac": "Delete"
+  },
+  "move slide up": {
+    "keywords": ["move slide up", "slide order"],
+    "windows": "Ctrl + ↑",
+    "mac": "Cmd + ↑"
+  },
+  "move slide down": {
+    "keywords": ["move slide down", "slide order"],
+    "windows": "Ctrl + ↓",
+    "mac": "Cmd + ↓"
+  },
+  "start slideshow": {
+    "keywords": ["slideshow", "presentation"],
+    "windows": "F5",
+    "mac": "Cmd + Option + P"
+  },
+  "start slideshow from current slide": {
+    "keywords": ["slideshow current", "presentation current"],
+    "windows": "Shift + F5",
+    "mac": "Shift + Cmd + Option + P"
+  },
+  "end slideshow": {
+    "keywords": ["end slideshow", "exit slideshow"],
+    "windows": "Esc",
+    "mac": "Esc"
+  },
+  "insert text box": {
+    "keywords": ["text box", "insert text"],
+    "windows": "Alt + N + X",
+    "mac": "Cmd + Option + X"
+  },
+  "insert picture": {
+    "keywords": ["insert picture", "add image"],
+    "windows": "Alt + N + P",
+    "mac": "Cmd + Option + P"
+  },
+  "insert shape": {
+    "keywords": ["insert shape", "add shape"],
+    "windows": "Alt + N + S + H",
+    "mac": "Cmd + Option + S"
+  },
+  "insert chart slide": {
+    "keywords": ["insert chart", "add chart"],
+    "windows": "Alt + N + C",
+    "mac": "Cmd + Option + C"
+  },
+  "apply design theme": {
+    "keywords": ["design theme", "apply theme"],
+    "windows": "Alt + G",
+    "mac": "Cmd + Option + G"
+  },
+  "apply transition": {
+    "keywords": ["transition", "slide transition"],
+    "windows": "Alt + K",
+    "mac": "Cmd + Option + K"
+  },
+  "apply animation": {
+    "keywords": ["animation", "slide animation"],
+    "windows": "Alt + A",
+    "mac": "Cmd + Option + A"
+  },
+  "insert comment": {
+    "keywords": ["comment", "note"],
+    "windows": "Ctrl + Alt + M",
+    "mac": "Cmd + Option + M"
+  },
+  "toggle gridlines": {
+    "keywords": ["gridlines", "toggle grid"],
+    "windows": "Alt + W + V + G",
+    "mac": "Cmd + Option + G"
+  },
+  "toggle guides": {
+    "keywords": ["guides", "toggle guides"],
+    "windows": "Alt + W + V + L",
+    "mac": "Cmd + Option + L"
+  },
+
+  "lock screen": {
+    "keywords": ["lock screen", "secure pc"],
+    "windows": "Windows + L",
+    "mac": "Ctrl + Cmd + Q"
+  },
+  "switch apps": {
+    "keywords": ["switch apps", "task switcher"],
+    "windows": "Alt + Tab",
+    "mac": "Cmd + Tab"
+  },
+  "task view": {
+    "keywords": ["task view", "virtual desktops"],
+    "windows": "Windows + Tab",
+    "mac": "Control + ↑"
+  },
+  "minimize window": {
+    "keywords": ["minimize window", "hide window"],
+    "windows": "Windows + Down Arrow",
+    "mac": "Cmd + M"
+  },
+  "maximize window": {
+    "keywords": ["maximize window", "restore window"],
+    "windows": "Windows + Up Arrow",
+    "mac": "Ctrl + Cmd + F"
+  },
+  "close window": {
+    "keywords": ["close window", "exit window"],
+    "windows": "Alt + F4",
+    "mac": "Cmd + W"
+  },
+  "new virtual desktop": {
+    "keywords": ["new desktop", "virtual desktop"],
+    "windows": "Windows + Ctrl + D",
+    "mac": "Control + ↑ then +"
+  },
+  "close virtual desktop": {
+    "keywords": ["close desktop", "remove desktop"],
+    "windows": "Windows + Ctrl + F4",
+    "mac": "Control + ↑ then delete"
+  },
+  "switch virtual desktop": {
+    "keywords": ["switch desktop", "desktop navigation"],
+    "windows": "Windows + Ctrl + ← / →",
+    "mac": "Control + ← / →"
+  },
+  "open file explorer": {
+    "keywords": ["file explorer", "open explorer"],
+    "windows": "Windows + E",
+    "mac": "Cmd + Option + Space"
+  },
+  "search files": {
+    "keywords": ["search files", "find files"],
+    "windows": "Windows + S",
+    "mac": "Cmd + Space"
+  },
+  "screenshot full screen": {
+    "keywords": ["screenshot", "print screen"],
+    "windows": "PrtScn",
+    "mac": "Cmd + Shift + 3"
+  },
+  "screenshot window": {
+    "keywords": ["screenshot window", "capture window"],
+    "windows": "Alt + PrtScn",
+    "mac": "Cmd + Shift + 4 + Space"
+  },
+  "screenshot selection": {
+    "keywords": ["screenshot selection", "capture area"],
+    "windows": "Windows + Shift + S",
+    "mac": "Cmd + Shift + 4"
+  },
+  "open settings": {
+    "keywords": ["settings", "preferences"],
+    "windows": "Windows + I",
+    "mac": "Cmd + ,"
+  },
+  "open run dialog": {
+    "keywords": ["run dialog", "execute"],
+    "windows": "Windows + R",
+    "mac": "Cmd + Space then app name"
+  },
+  "open task manager": {
+    "keywords": ["task manager", "process manager"],
+    "windows": "Ctrl + Shift + Esc",
+    "mac": "Cmd + Option + Esc"
+  },
+  "refresh window": {
+    "keywords": ["refresh", "reload"],
+    "windows": "F5",
+    "mac": "Cmd + R"
+  },
+  "rename file": {
+    "keywords": ["rename file", "change name"],
+    "windows": "F2",
+    "mac": "Return"
+  },
+  "delete file": {
+    "keywords": ["delete file", "remove file"],
+    "windows": "Delete",
+    "mac": "Cmd + Delete"
+  },
+  "force quit app": {
+    "keywords": ["force quit", "kill app"],
+    "windows": "Ctrl + Alt + Delete → Task Manager",
+    "mac": "Cmd + Option + Esc"
+  },
+  "spotlight search": {
+    "keywords": ["spotlight", "search mac"],
+    "windows": "Windows + S",
+    "mac": "Cmd + Space"
+  },
+  "mission control": {
+    "keywords": ["mission control", "mac overview"],
+    "windows": "Windows + Tab",
+    "mac": "Control + ↑"
+  },
+  "show desktop": {
+    "keywords": ["show desktop", "minimize all"],
+    "windows": "Windows + D",
+    "mac": "Fn + F11"
+  },
+  "open notification center": {
+    "keywords": ["notification center", "alerts"],
+    "windows": "Windows + A",
+    "mac": "Fn + F12"
+  },
+  "open quick settings": {
+    "keywords": ["quick settings", "control center"],
+    "windows": "Windows + A",
+    "mac": "Cmd + Option + F5"
+  },
+  "emoji panel": {
+    "keywords": ["emoji panel", "insert emoji"],
+    "windows": "Windows + .",
+    "mac": "Cmd + Ctrl + Space"
+  },
+  "switch input language": {
+    "keywords": ["switch language", "change keyboard"],
+    "windows": "Windows + Space",
+    "mac": "Cmd + Space (hold)"
+  },
+  "open clipboard history": {
+    "keywords": ["clipboard history", "paste history"],
+    "windows": "Windows + V",
+    "mac": "No native shortcut"
+  },
+  "lock orientation": {
+    "keywords": ["lock orientation", "rotation lock"],
+    "windows": "Windows + O",
+    "mac": "No native shortcut"
+  },
+  "open accessibility options": {
+    "keywords": ["accessibility", "ease of access"],
+    "windows": "Windows + U",
+    "mac": "Cmd + Option + F5"
+  },
+  "zoom in accessibility": {
+    "keywords": ["zoom in", "magnifier"],
+    "windows": "Windows + +",
+    "mac": "Option + Cmd + +"
+  },
+  "zoom out accessibility": {
+    "keywords": ["zoom out", "reduce zoom"],
+    "windows": "Windows + -",
+    "mac": "Option + Cmd + -"
+  },
+
+  "open history": {
+    "keywords": ["history", "browser history"],
+    "windows": "Ctrl + H",
+    "mac": "Cmd + Y"
+  },
+  "open downloads": {
+    "keywords": ["downloads", "download manager"],
+    "windows": "Ctrl + J",
+    "mac": "Cmd + Option + L"
+  },
+  "open bookmarks": {
+    "keywords": ["bookmarks", "favorites"],
+    "windows": "Ctrl + Shift + B",
+    "mac": "Cmd + Shift + B"
+  },
+  "add bookmark": {
+    "keywords": ["add bookmark", "save page"],
+    "windows": "Ctrl + D",
+    "mac": "Cmd + D"
+  },
+  "refresh page": {
+    "keywords": ["refresh", "reload"],
+    "windows": "Ctrl + R / F5",
+    "mac": "Cmd + R"
+  },
+  "hard reload": {
+    "keywords": ["hard reload", "force reload"],
+    "windows": "Ctrl + Shift + R",
+    "mac": "Cmd + Shift + R"
+  },
+  "open incognito": {
+    "keywords": ["incognito", "private window"],
+    "windows": "Ctrl + Shift + N",
+    "mac": "Cmd + Shift + N"
+  },
+  "open find bar": {
+    "keywords": ["find bar", "search page"],
+    "windows": "Ctrl + F",
+    "mac": "Cmd + F"
+  },
+  "open developer console": {
+    "keywords": ["console", "dev console"],
+    "windows": "Ctrl + Shift + J",
+    "mac": "Cmd + Option + J"
+  },
+  "open page source": {
+    "keywords": ["view source", "page source"],
+    "windows": "Ctrl + U",
+    "mac": "Cmd + Option + U"
+  },
+  "zoom in browser": {
+    "keywords": ["zoom in", "magnify"],
+    "windows": "Ctrl + +",
+    "mac": "Cmd + +"
+  },
+  "zoom out browser": {
+    "keywords": ["zoom out", "reduce"],
+    "windows": "Ctrl + -",
+    "mac": "Cmd + -"
+  },
+  "reset zoom": {
+    "keywords": ["reset zoom", "default zoom"],
+    "windows": "Ctrl + 0",
+    "mac": "Cmd + 0"
+  },
+  "open extensions": {
+    "keywords": ["extensions", "plugins"],
+    "windows": "Ctrl + Shift + E",
+    "mac": "Cmd + Shift + E"
+  },
+  "open settings browser": {
+    "keywords": ["browser settings", "preferences"],
+    "windows": "Alt + F → Settings",
+    "mac": "Cmd + ,"
+  },
+  "toggle sidebar": {
+    "keywords": ["sidebar", "toggle sidebar"],
+    "windows": "Ctrl + B",
+    "mac": "Cmd + B"
+  },
+  "open command palette vs code": {
+    "keywords": ["command palette", "search commands"],
+    "windows": "Ctrl + Shift + P",
+    "mac": "Cmd + Shift + P"
+  },
+  "toggle terminal vs code": {
+    "keywords": ["terminal", "console"],
+    "windows": "Ctrl + `",
+    "mac": "Cmd + `"
+  },
+  "split editor": {
+    "keywords": ["split editor", "multiple editors"],
+    "windows": "Ctrl + \\",
+    "mac": "Cmd + \\"
+  },
+  "toggle sidebar vs code": {
+    "keywords": ["toggle sidebar", "explorer"],
+    "windows": "Ctrl + B",
+    "mac": "Cmd + B"
+  },
+  "toggle panel": {
+    "keywords": ["toggle panel", "bottom panel"],
+    "windows": "Ctrl + J",
+    "mac": "Cmd + J"
+  },
+  "open file vs code": {
+    "keywords": ["open file", "load file"],
+    "windows": "Ctrl + O",
+    "mac": "Cmd + O"
+  },
+  "save file vs code": {
+    "keywords": ["save file", "store file"],
+    "windows": "Ctrl + S",
+    "mac": "Cmd + S"
+  },
+  "save all files": {
+    "keywords": ["save all", "store all"],
+    "windows": "Ctrl + K S",
+    "mac": "Cmd + Option + S"
+  },
+  "close editor": {
+    "keywords": ["close editor", "exit editor"],
+    "windows": "Ctrl + W",
+    "mac": "Cmd + W"
+  },
+  "close all editors": {
+    "keywords": ["close all editors", "exit all"],
+    "windows": "Ctrl + K W",
+    "mac": "Cmd + Option + W"
+  },
+  "new file vs code": {
+    "keywords": ["new file", "create file"],
+    "windows": "Ctrl + N",
+    "mac": "Cmd + N"
+  },
+  "find in file": {
+    "keywords": ["find", "search file"],
+    "windows": "Ctrl + F",
+    "mac": "Cmd + F"
+  },
+  "replace in file": {
+    "keywords": ["replace", "substitute"],
+    "windows": "Ctrl + H",
+    "mac": "Cmd + Option + F"
+  },
+  "find in project": {
+    "keywords": ["find project", "search project"],
+    "windows": "Ctrl + Shift + F",
+    "mac": "Cmd + Shift + F"
+  },
+  "replace in project": {
+    "keywords": ["replace project", "substitute project"],
+    "windows": "Ctrl + Shift + H",
+    "mac": "Cmd + Shift + H"
+  },
+  "toggle comment line": {
+    "keywords": ["comment line", "toggle comment"],
+    "windows": "Ctrl + /",
+    "mac": "Cmd + /"
+  },
+  "toggle block comment": {
+    "keywords": ["block comment", "toggle block"],
+    "windows": "Shift + Alt + A",
+    "mac": "Shift + Option + A"
+  },
+  "format document vs code": {
+    "keywords": ["format document", "beautify"],
+    "windows": "Shift + Alt + F",
+    "mac": "Shift + Option + F"
+  },
+  "rename symbol": {
+    "keywords": ["rename symbol", "refactor"],
+    "windows": "F2",
+    "mac": "Fn + F2"
+  },
+  "go to definition": {
+    "keywords": ["definition", "jump to definition"],
+    "windows": "F12",
+    "mac": "Fn + F12"
+  },
+  "peek definition": {
+    "keywords": ["peek definition", "inline definition"],
+    "windows": "Alt + F12",
+    "mac": "Option + F12"
+  },
+  "go to line": {
+    "keywords": ["go to line", "jump line"],
+    "windows": "Ctrl + G",
+    "mac": "Cmd + G"
+  },
+  "open debug panel": {
+    "keywords": ["debug panel", "debugging"],
+    "windows": "Ctrl + Shift + D",
+    "mac": "Cmd + Shift + D"
+  },
+  "start debugging": {
+    "keywords": ["start debug", "run debug"],
+    "windows": "F5",
+    "mac": "Fn + F5"
+  },
+  "stop debugging": {
+    "keywords": ["stop debug", "end debug"],
+    "windows": "Shift + F5",
+    "mac": "Shift + Fn + F5"
+  },
+  "step over": {
+    "keywords": ["step over", "debug step"],
+    "windows": "F10",
+    "mac": "Fn + F10"
+  },
+  "step into": {
+    "keywords": ["step into", "debug step"],
+    "windows": "F11",
+    "mac": "Fn + F11"
+  },
+  "step out": {
+    "keywords": ["step out", "debug step"],
+    "windows": "Shift + F11",
+    "mac": "Shift + Fn + F11"
+  },
+
+ 
+  
+  "merge visible": {
+    "keywords": ["merge visible", "flatten visible"],
+    "windows": "Shift + Ctrl + E",
+    "mac": "Shift + Cmd + E"
+  },
+  "flatten image": {
+    "keywords": ["flatten image", "merge all"],
+    "windows": "Ctrl + Shift + F",
+    "mac": "Cmd + Shift + F"
+  },
+  "free transform": {
+    "keywords": ["transform", "resize", "rotate"],
+    "windows": "Ctrl + T",
+    "mac": "Cmd + T"
+  },
+  "select all": {
+    "keywords": ["select all", "highlight all"],
+    "windows": "Ctrl + A",
+    "mac": "Cmd + A"
+  },
+  "deselect": {
+    "keywords": ["deselect", "remove selection"],
+    "windows": "Ctrl + D",
+    "mac": "Cmd + D"
+  },
+  "inverse selection": {
+    "keywords": ["inverse selection", "invert selection"],
+    "windows": "Shift + Ctrl + I",
+    "mac": "Shift + Cmd + I"
+  },
+  "feather selection": {
+    "keywords": ["feather", "soft edges"],
+    "windows": "Shift + F6",
+    "mac": "Shift + Fn + F6"
+  },
+  "move tool": {
+    "keywords": ["move tool", "drag"],
+    "windows": "V",
+    "mac": "V"
+  },
+  "marquee tool": {
+    "keywords": ["marquee", "rectangle select"],
+    "windows": "M",
+    "mac": "M"
+  },
+  "lasso tool": {
+    "keywords": ["lasso", "free select"],
+    "windows": "L",
+    "mac": "L"
+  },
+  "magic wand tool": {
+    "keywords": ["magic wand", "quick select"],
+    "windows": "W",
+    "mac": "W"
+  },
+  "crop tool": {
+    "keywords": ["crop", "cut"],
+    "windows": "C",
+    "mac": "C"
+  },
+  "eyedropper tool": {
+    "keywords": ["eyedropper", "color picker"],
+    "windows": "I",
+    "mac": "I"
+  },
+  "brush tool": {
+    "keywords": ["brush", "paint"],
+    "windows": "B",
+    "mac": "B"
+  },
+  "eraser tool": {
+    "keywords": ["eraser", "remove paint"],
+    "windows": "E",
+    "mac": "E"
+  },
+  "gradient tool": {
+    "keywords": ["gradient", "blend"],
+    "windows": "G",
+    "mac": "G"
+  },
+  "paint bucket tool": {
+    "keywords": ["paint bucket", "fill"],
+    "windows": "Shift + G",
+    "mac": "Shift + G"
+  },
+  
+  
+  "fit on screen": {
+    "keywords": ["fit screen", "view all"],
+    "windows": "Ctrl + 0",
+    "mac": "Cmd + 0"
+  },
+  "actual pixels": {
+    "keywords": ["actual pixels", "100% zoom"],
+    "windows": "Ctrl + 1",
+    "mac": "Cmd + 1"
+  },
+  "toggle rulers": {
+    "keywords": ["rulers", "toggle rulers"],
+    "windows": "Ctrl + R",
+    "mac": "Cmd + R"
+  },
+
+  
+  "toggle grid": {
+    "keywords": ["grid", "toggle grid"],
+    "windows": "Ctrl + '",
+    "mac": "Cmd + '"
+  },
+  
+  
+  "toggle brush size": {
+    "keywords": ["brush size", "increase brush"],
+    "windows": "] / [",
+    "mac": "] / ["
+  },
+  "toggle brush hardness": {
+    "keywords": ["brush hardness", "soft brush"],
+    "windows": "Shift + ] / [",
+    "mac": "Shift + ] / ["
+  },
+  "new guide": {
+    "keywords": ["new guide", "add guide"],
+    "windows": "Ctrl + Alt + ;",
+    "mac": "Cmd + Option + ;"
+  },
+  "toggle layers panel": {
+    "keywords": ["layers panel", "show layers"],
+    "windows": "F7",
+    "mac": "Fn + F7"
+  },
+  "toggle info panel": {
+    "keywords": ["info panel", "show info"],
+    "windows": "F8",
+    "mac": "Fn + F8"
+  },
+  "toggle actions panel": {
+    "keywords": ["actions panel", "show actions"],
+    "windows": "Alt + F9",
+    "mac": "Option + Fn + F9"
+  },
+  "toggle brushes panel": {
+    "keywords": ["brushes panel", "show brushes"],
+    "windows": "F5",
+    "mac": "Fn + F5"
+  },
+  "toggle color panel": {
+    "keywords": ["color panel", "show color"],
+    "windows": "F6",
+    "mac": "Fn + F6"
+  },
+  "toggle character panel": {
+    "keywords": ["character panel", "text panel"],
+    "windows": "Ctrl + T",
+    "mac": "Cmd + T"
+  },
+  "toggle paragraph panel": {
+    "keywords": ["paragraph panel", "text panel"],
+    "windows": "Ctrl + Alt + T",
+    "mac": "Cmd + Option + T"
+  },
+  "toggle navigator panel": {
+    "keywords": ["navigator panel", "view navigator"],
+    "windows": "F12",
+    "mac": "Fn + F12"
+  },
+  "toggle layers visibility": {
+    "keywords": ["layer visibility", "show hide layer"],
+    "windows": "Ctrl + ,",
+    "mac": "Cmd + ,"
+  },
+  "toggle quick mask": {
+    "keywords": ["quick mask", "mask mode"],
+    "windows": "Q",
+    "mac": "Q"
+  },
+  "toggle screen modes": {
+    "keywords": ["screen modes", "toggle screen"],
+    "windows": "F",
+    "mac": "F"
+  },
+  "toggle blending options": {
+    "keywords": ["blending options", "layer styles"],
+    "windows": "Ctrl + Shift + F",
+    "mac": "Cmd + Shift + F"
+  },
+  "toggle opacity": {
+    "keywords": ["opacity", "layer opacity"],
+    "windows": "0–9 keys",
+    "mac": "0–9 keys"
+  },
+  "toggle fill": {
+    "keywords": ["fill", "layer fill"],
+    "windows": "Shift + 0–9 keys",
+    "mac": "Shift + 0–9 keys"
+  },
+  "toggle transform again": {
+    "keywords": ["transform again", "repeat transform"],
+    "windows": "Ctrl + Shift + T",
+    "mac": "Cmd + Shift + T"
+  },
+
+  "help": {
+    "keywords": ["help", "support"],
+    "windows": "F1",
+    "mac": "Fn + F1"
+  },
+  "rename selected item": {
+    "keywords": ["rename", "change name"],
+    "windows": "F2",
+    "mac": "Return"
+  },
+  "search": {
+    "keywords": ["search", "find"],
+    "windows": "F3",
+    "mac": "Cmd + F"
+  },
+  "address bar focus": {
+    "keywords": ["address bar", "url bar"],
+    "windows": "F4",
+    "mac": "Cmd + L"
+  },
+  "refresh": {
+    "keywords": ["refresh", "reload"],
+    "windows": "F5",
+    "mac": "Cmd + R"
+  },
+  "cycle screen elements": {
+    "keywords": ["cycle elements", "switch focus"],
+    "windows": "F6",
+    "mac": "Fn + F6"
+  },
+  "spell check": {
+    "keywords": ["spell check", "proofing"],
+    "windows": "F7",
+    "mac": "Fn + F7"
+  },
+  "extend selection": {
+    "keywords": ["extend selection", "select text"],
+    "windows": "F8",
+    "mac": "Fn + F8"
+  },
+  "calculate worksheet": {
+    "keywords": ["calculate", "recalculate"],
+    "windows": "F9",
+    "mac": "Fn + F9"
+  },
+  
+  
+  "toggle full screen": {
+    "keywords": ["full screen", "screen mode"],
+    "windows": "F11",
+    "mac": "Fn + F11"
+  },
+  "open developer tools": {
+    "keywords": ["developer tools", "inspect"],
+    "windows": "F12",
+    "mac": "Fn + F12"
+  },
+  "toggle numlock": {
+    "keywords": ["numlock", "number pad"],
+    "windows": "NumLock",
+    "mac": "No native shortcut"
+  },
+  "numeric keypad add": {
+    "keywords": ["add", "plus"],
+    "windows": "NumPad +",
+    "mac": "NumPad +"
+  },
+  "numeric keypad subtract": {
+    "keywords": ["subtract", "minus"],
+    "windows": "NumPad -",
+    "mac": "NumPad -"
+  },
+  "numeric keypad multiply": {
+    "keywords": ["multiply", "times"],
+    "windows": "NumPad *",
+    "mac": "NumPad *"
+  },
+  "numeric keypad divide": {
+    "keywords": ["divide", "slash"],
+    "windows": "NumPad /",
+    "mac": "NumPad /"
+  },
+  "numeric keypad enter": {
+    "keywords": ["enter", "return"],
+    "windows": "NumPad Enter",
+    "mac": "NumPad Enter"
+  },
+  "numeric keypad decimal": {
+    "keywords": ["decimal", "dot"],
+    "windows": "NumPad .",
+    "mac": "NumPad ."
+  },
+  "numeric keypad 0": {
+    "keywords": ["zero", "0"],
+    "windows": "NumPad 0",
+    "mac": "NumPad 0"
+  },
+  "numeric keypad 1": {
+    "keywords": ["one", "1"],
+    "windows": "NumPad 1",
+    "mac": "NumPad 1"
+  },
+  "numeric keypad 2": {
+    "keywords": ["two", "2"],
+    "windows": "NumPad 2",
+    "mac": "NumPad 2"
+  },
+  "numeric keypad 3": {
+    "keywords": ["three", "3"],
+    "windows": "NumPad 3",
+    "mac": "NumPad 3"
+  },
+  "numeric keypad 4": {
+    "keywords": ["four", "4"],
+    "windows": "NumPad 4",
+    "mac": "NumPad 4"
+  },
+  "numeric keypad 5": {
+    "keywords": ["five", "5"],
+    "windows": "NumPad 5",
+    "mac": "NumPad 5"
+  },
+  "numeric keypad 6": {
+    "keywords": ["six", "6"],
+    "windows": "NumPad 6",
+    "mac": "NumPad 6"
+  },
+  "numeric keypad 7": {
+    "keywords": ["seven", "7"],
+    "windows": "NumPad 7",
+    "mac": "NumPad 7"
+  },
+  "numeric keypad 8": {
+    "keywords": ["eight", "8"],
+    "windows": "NumPad 8",
+    "mac": "NumPad 8"
+  },
+  "numeric keypad 9": {
+    "keywords": ["nine", "9"],
+    "windows": "NumPad 9",
+    "mac": "NumPad 9"
+  },
+"underline (Word)": {
+  "keywords": ["underline", "text underline"],
+  "windows": "Ctrl + U",
+  "mac": "Cmd + U"
+},
+"view source (Browser)": {
+  "keywords": ["view source", "page source"],
+  "windows": "Ctrl + U",
+  "mac": "Cmd + Option + U"
+},
+
+  "shutdown": {
+    "keywords": ["shutdown", "power off", "turn off"],
+    "windows": "Alt + F4 (on desktop) → Enter",
+    "mac": "Cmd + Option + Ctrl + Power"
+  },
+  "restart": {
+    "keywords": ["restart", "reboot"],
+    "windows": "Ctrl + Alt + Delete → Power → Restart",
+    "mac": "Cmd + Ctrl + Power"
+  },
+  "sleep": {
+    "keywords": ["sleep", "suspend"],
+    "windows": "Alt + F4 (on desktop) → Sleep",
+    "mac": "Cmd + Option + Power"
+  },
+  "hibernate": {
+    "keywords": ["hibernate", "deep sleep"],
+    "windows": "Alt + F4 (on desktop) → Hibernate",
+    "mac": "No native shortcut (use Sleep)"
+  },
+  "log off": {
+    "keywords": ["log off", "sign out"],
+    "windows": "Ctrl + Alt + Delete → Sign out",
+    "mac": "Shift + Cmd + Q"
+  },
+  "lock computer": {
+    "keywords": ["lock", "secure"],
+    "windows": "Windows + L",
+    "mac": "Ctrl + Cmd + Q"
+  },
+  
+  
+  "open power options": {
+    "keywords": ["power options", "energy settings"],
+    "windows": "Windows + X → U",
+    "mac": "System Preferences → Energy Saver"
+  }
+}
+
+
+
+
+
+
+
